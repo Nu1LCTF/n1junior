@@ -1,1 +1,1 @@
-# n1junior
+# n1ctf_junior
